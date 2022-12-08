@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533872273646",
+    "project_id": "notifications-learn-try-app",
+    "storage_bucket": "notifications-learn-try-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533872273646:android:8d893532277b9a3bd5abff",
+        "android_client_info": {
+          "package_name": "com.example.notifications_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533872273646-k7o0m34vv35c1ccr6g75p1ehklk05jcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVv6ycwXCCFPEM0ZXgoE2eovWAu8-85zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533872273646-k7o0m34vv35c1ccr6g75p1ehklk05jcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
